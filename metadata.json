@@ -1,0 +1,7 @@
+{
+  "name": "RawatEdit Studio",
+  "description": "A high-performance image editing suite powered by Gemini 2.5 Flash Image. Upload, prompt, and transform images with natural language, and install the app to your device for on-the-go creative magic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
